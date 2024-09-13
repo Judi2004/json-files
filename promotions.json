@@ -2,27 +2,27 @@
   "promotions": [
     {
       "id": 1,
-      "imageResource": "cappucino.png",
+      "imageResource": "https://github.com/Judi2004/json-files/blob/main/promoimg/cappucino.png",
       "description": "Get 20% off on all cakes this weekend!"
     },
     {
       "id": 2,
-      "imageResource": "cappucino.png",
+      "imageResource": "https://github.com/Judi2004/json-files/blob/main/promoimg/cappucino.png",
       "description": "Buy 1 Get 1 Free on all sweets!"
     },
     {
       "id": 3,
-      "imageResource": "cappucino.png",
+      "imageResource": "https://github.com/Judi2004/json-files/blob/main/promoimg/cappucino.png",
       "description": "Free delivery on orders over $50!"
     },
     {
       "id": 4,
-      "imageResource": "cappucino.png",
+      "imageResource": "https://github.com/Judi2004/json-files/blob/main/promoimg/cappucino.png",
       "description": "Exclusive discount for members - Save 15%!"
     },
     {
       "id": 5,
-      "imageResource": "cappucino.png",
+      "imageResource": "https://github.com/Judi2004/json-files/blob/main/promoimg/cappucino.png",
       "description": "Limited time offer: 10% off all savory items!"
     }
   ]
